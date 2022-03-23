@@ -1,7 +1,5 @@
 # Hi :wave: I'm IZME
 
----
-
 ### :woman_technologist: About Me :
 - :school_satchel: I am a Student from Viet Nam who's just falling in love with code.
 
@@ -21,6 +19,6 @@
 </div>
 
 ---
-:fire: My languages
+### :fire: My languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamtranlinhchi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
