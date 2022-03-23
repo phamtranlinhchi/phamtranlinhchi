@@ -5,7 +5,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Student from Viet Nam who's just falling in love with code.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Student from Vietnam who's just falling in love with code.
 
 - :telescope: My major is Software Engineering.
 
