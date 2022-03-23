@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm IZME
 
 ### :woman_technologist: About Me :
-- :school_satchel: I am a Student from Viet Nam who's just falling in love with code.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Student from Viet Nam who's just falling in love with code.
 
 - :telescope: My major is Software Engineering.
 
