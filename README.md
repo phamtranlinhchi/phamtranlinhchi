@@ -1,4 +1,4 @@
-# Hi :wave: I'm IZME
+## Hi :wave: I'm IZME
 
 ### :woman_technologist: About Me :
 - :school_satchel: I am a Student from Viet Nam who's just falling in love with code.
