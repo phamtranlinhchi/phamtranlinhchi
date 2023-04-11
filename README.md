@@ -31,7 +31,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
 </div>
 
----
-### :fire: My languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamtranlinhchi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
